@@ -12,7 +12,7 @@ import java.util.ArrayList;
 public class Bot extends TelegramLongPollingBot {
     //создаем две константы, присваиваем им значения токена и имя бота соответсвтенно
     //вместо звездочек подставляйте свои данные
-    final private String BOT_TOKEN = "6275093182:AAEGFYXuqJoGFkczTgtKjVkRjTVhonltkuQ";
+    final private String BOT_TOKEN = "***";
     final private String BOT_NAME = "NivroLag_bot";
     Storage storage;
     private ReplyKeyboardMarkup replyKeyboardMarkup;
